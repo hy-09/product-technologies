@@ -1,6 +1,11 @@
+---
+layout: default
+title: 技術スタック
+---
+
 # 使用技術
 
-### フロントエンド
+## フロントエンド
 
 - React 18 / TypeScript / Vite
 - shadcn/ui (Radix UI × TailwindCSS)
@@ -9,11 +14,11 @@
 - zustand
 - React Hook Form / Zod
 
-### バックエンド
+## バックエンド
 
 - Laravel 11
 
-### 外部サービス
+## 外部サービス
 
 - Stripe（決済プラットフォーム）
 - Redis（キャッシュサーバ）
@@ -21,28 +26,28 @@
 - OAuth
   - Google
   - Instagram
-- Gemini API（生成AI API）
+- Gemini API（生成 AI API）
 - WordsAPI（英単語辞書 API）
 - Datamuse API（英単語サジェスト API）
 
-### Webサーバ
+## Web サーバ
 
 - Nginx
 
-### データベース
+## データベース
 
 - MySQL
 
-### インフラ（AWS）
+## インフラ（AWS）
 
 - Lightsail
 - CloudWatch
 - SNS
 
-### CI/CD
+## CI/CD
 
 - GitHub Actions
 
-### ローカル環境構築
+## ローカル環境構築
 
 - Docker / Docker Compose

@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: 技術スタック
+description: 使用している技術スタック一覧
+theme: minima # デフォルトテーマ
+markdown: kramdown # Markdownエンジン
