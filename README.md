@@ -20,7 +20,7 @@
 - Google reCAPTCHA
 - OAuth
   - Google
-  - X 
+  - Instagram
 - Gemini API（生成AI API）
 - WordsAPI（英単語辞書 API）
 - Datamuse API（英単語サジェスト API）
@@ -36,6 +36,8 @@
 ### インフラ（AWS）
 
 - Lightsail
+- CloudWatch
+- SNS
 
 ### CI/CD
 
