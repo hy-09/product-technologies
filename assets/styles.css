@@ -1,3 +1,4 @@
+/* ベーススタイル */
 body {
   font-family: "Arial", sans-serif;
   line-height: 1.6;
@@ -7,13 +8,36 @@ body {
   color: #333;
 }
 
+/* Header */
 header {
   background: #007acc;
   color: white;
   text-align: center;
-  padding: 1rem 0;
+  padding: 1.5rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* h1スタイル */
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* h2スタイル */
+h2 {
+  font-size: 1.8rem;
+  color: #007acc;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #007acc;
+  padding-left: 10px;
+  text-transform: capitalize;
+}
+
+/* main セクション */
 main {
   max-width: 800px;
   margin: 2rem auto;
@@ -23,8 +47,37 @@ main {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* ulスタイル */
+ul {
+  list-style-type: none; /* デフォルトの箇条書きスタイルを削除 */
+  padding: 0;
+}
+
+ul li {
+  position: relative;
+  padding-left: 1.8rem;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+}
+
+ul li::before {
+  content: "✔"; /* チェックマークアイコン */
+  color: #007acc;
+  position: absolute;
+  left: 0;
+  font-size: 1.2rem;
+  top: 0;
+  line-height: 1;
+}
+
+/* Footer */
 footer {
   text-align: center;
-  margin: 2rem 0;
+  margin-top: 2rem;
+  font-size: 0.9rem;
   color: #666;
+}
+
+footer p {
+  margin: 0;
 }
