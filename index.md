@@ -38,6 +38,7 @@ title: 技術スタック
 - Lightsail
 - CloudWatch
 - SNS
+- Lambda
 
 ## CI/CD
 - GitHub Actions
