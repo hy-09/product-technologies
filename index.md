@@ -3,7 +3,7 @@ layout: default
 title: 技術スタック
 ---
 
-# 使用技術
+# 技術スタック
 
 ## フロントエンド
 - React 18 / TypeScript / Vite
@@ -22,7 +22,7 @@ title: 技術スタック
 - Google reCAPTCHA
 - OAuth
   - Google
-  - Instagram
+  <!-- - Instagram -->
 - Gemini API（生成AI API）
 - WordsAPI（英単語辞書 API）
 - Datamuse API（英単語サジェスト API）
