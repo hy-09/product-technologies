@@ -1,3 +1,21 @@
+@font-face {
+  font-family: "Open Sans";
+  font-display: swap;
+  src: url("./fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf")
+    format("TrueType");
+}
+
+@font-face {
+  font-family: "Noto Sans JP";
+  font-display: swap;
+  src: url("./fonts/Noto_Sans_JP/NotoSansJP-VariableFont_wght.ttf")
+    format("TrueType");
+}
+
+body {
+  font-family: "Open Sans", "Noto Sans JP", sans-serif;
+}
+
 /* ベーススタイル */
 body {
   font-family: "Arial", sans-serif;
