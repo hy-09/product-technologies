@@ -12,13 +12,9 @@
     format("TrueType");
 }
 
-body {
-  font-family: "Open Sans", "Noto Sans JP", sans-serif;
-}
-
 /* ベーススタイル */
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Open Sans", "Noto Sans JP", sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
