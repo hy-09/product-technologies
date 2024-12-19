@@ -22,6 +22,7 @@ title: 技術スタック
 - Google reCAPTCHA
 - OAuth
   - Google
+  - Discord
   <!-- - Instagram -->
 - Gemini API（生成AI API）
 - WordsAPI（英単語辞書 API）
