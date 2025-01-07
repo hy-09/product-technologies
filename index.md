@@ -6,9 +6,9 @@ title: 技術スタック
 # 成果物
 https://enxample.net/
 
-■テスト用アカウント
-メールアドレス：test@test.com
-パスワード：4vVfDr4Jj6qt
+■テスト用アカウント  
+メールアドレス：test@test.com  
+パスワード：4vVfDr4Jj6qt  
 
 # 技術スタック
 
