@@ -5,7 +5,7 @@ title: 技術スタック
 
 # 成果物
 生成AIを活用した英語学習サービス  
-[https://enxample.net/](https://enxample.net/)  
+[https://enxample.net/](https://enxample.net/){:target="_blank"}  
 
 ■主な機能  
 ・検索した英単語の使用例文を生成AIで作成  
