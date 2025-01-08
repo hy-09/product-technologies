@@ -4,7 +4,12 @@ title: 技術スタック
 ---
 
 # 成果物
-https://enxample.net/
+生成AIを活用した英語学習サービス  
+[https://enxample.net/](https://enxample.net/)  
+
+■主な機能  
+・検索した英単語の使用例文を生成AIで作成  
+・パターンプラクティスを生成AIで作成  
 
 ■テスト用アカウント  
 メールアドレス：test@test.com  
