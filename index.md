@@ -27,10 +27,10 @@ title: 技術スタック
 
 ## バックエンド
 - Laravel 11
+- Redis（キャッシュサーバ）
 
 ## 外部サービス
 - Stripe（決済プラットフォーム）
-- Redis（キャッシュサーバ）
 - Google reCAPTCHA
 - OAuth
   - Google
